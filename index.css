@@ -17,6 +17,7 @@ header{
     margin-bottom: 30px;
     background-color: rgb(12, 163, 223);
     color: white;
+    position:fixed;
 }
 section{
     margin-top: 20px;
@@ -26,6 +27,7 @@ footer{
     padding: 5px;
     background-color: rgb(12, 163, 223);
     color: white;
+    position :fixed;
 }
 .flexcontent{
     display: flex;
